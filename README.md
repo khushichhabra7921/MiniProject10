@@ -16,5 +16,5 @@
 1. Python - Core programming language
 2. Tesseract OCR - Text extraction from images
 3. OpenCV - Image preprocessing
-4. pyttsx3 or gTTS - Text-to-speech conversion
+4. gTTS - Text-to-speech conversion
 5. Pillow (PIL) - Image handling
